@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Kushal
 
-<!--
-**kambojkushal9/kambojkushal9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science Student
+- 💻 Backend & AI Developer
+- 🌱 Learning DevOps and Blockchain
+- 🔥 Solving DSA Problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- C++
+
+### Backend
+- Spring Boot
+- FastAPI
+- Node.js
+
+### Database
+- MySQL
+- MongoDB
+- Redis
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Postman
+
+---
+
+## 📌 Projects
+
+### 🤖 Sahayak AI
+AI-powered assistant using:
+- FastAPI
+- LangChain
+- Redis
+- Vector Database
+- RAG Architecture
+
+### 🏥 Medical Analyzer
+Hospital recommendation system based on user preferences.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: Your LinkedIn Link
